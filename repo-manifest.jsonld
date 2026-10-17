@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdistro/commit/960790d1e03c172a68f639190e71ba1fd04e81b9",
       "git:hexsha": "960790d1e03c172a68f639190e71ba1fd04e81b9",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.0",
+      "repolex:parsedAt": "2026-10-17T23:13:42.487303+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdistro/commit/7a7c56e36ed56a680c9414eed67a4a4cf7841f3a",
